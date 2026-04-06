@@ -37,4 +37,3 @@ Web-based system for patients, appointments, and staff management. Full UML mode
 [![LinkedIn:](https://img.shields.io/badge/LinkedIn-Derar%20Chekrouni-0077B5?style=flat&logo=linkedin)](linkedin.com/in/derar-chekrouni-040092248)
 [![Email:](https://img.shields.io/badge/Email-chekrouni.derar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chekrouni.derar@gmail.com)
 [![Website](https://img.shields.io/badge/Website-derarchekrouni.github.io-4CAF50?style=flat&logo=github)](https://derarchekrouni.github.io)
----
