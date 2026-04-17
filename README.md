@@ -8,11 +8,11 @@ Currently pursuing my Master's at the University of Algiers 1, building things t
 
 ## Tech Stack
 
-**Systems & Networks**
-`Linux` `TCP/IP` `Load Balancing` `High Availability` `Distributed Systems`
+**Networks & Infrastructure**
+`TCP/IP`, `Routing & Switching (OSPF, VLANs, STP, NAT, ACLs)`, `Network Architecture`, `High Availability`, `Load Balancing`, `Failover Design`
 
-**Security**
-`EBIOS-RM` `PGP / End-to-End Encryption` `RBAC` `Recon & OSINT`
+**Systems Administration** 
+`Linux` `Distributed Systems` `Stateless Application Design` `Automated Leader Election`
 
 **Programming**
 `Python` `Flutter`
