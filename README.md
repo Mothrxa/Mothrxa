@@ -9,13 +9,13 @@ Currently pursuing my Master's at the University of Algiers 1, building things t
 ## Tech Stack
 
 **Networks & Infrastructure**
-`TCP/IP`, `Routing & Switching (OSPF, VLANs, STP, NAT, ACLs)`, `Network Architecture`, `High Availability`, `Load Balancing`, `Failover Design`
+`TCP/IP`, `Routing & Switching (OSPF, VLANs, STP, NAT, ACLs)`, `Network Architecture`
 
 **Systems Administration** 
-`Linux` `Distributed Systems` `Stateless Application Design` `Automated Leader Election`
+`Linux` `Automation` `Ansible`
 
 **Programming**
-`Python` `Flutter`
+`Python`
 
 ---
 
