@@ -1,4 +1,4 @@
-# Hey there, I'm Derar 👋
+# Derar Chekrouni
 
 **Network & Systems Engineer** · CCNA · ISC2 CC · RHCSA in progress
 
@@ -18,7 +18,7 @@ Final-year Master's student in Networks & Embedded Systems at the University of 
 `Ansible` `Terraform` `Python`
 
 **Labs & Monitoring**
-`GNS3` `Containerlab` `Cisco IOS` `Arista cEOS` `Tailscale` `LibreNMS` `Uptime Kuma`
+`GNS3` `Containerlab` `Cisco IOS` `Arista cEOS` `Tailscale` `LibreNMS` `Graylog` `Uptime Kuma`
 
 ---
 
@@ -37,6 +37,6 @@ Self-hosted services on a Raspberry Pi 4 and a Fedora server, built to run unatt
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derar%20Chekrouni-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/derar-chekrouni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derar%20Chekrouni-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/derar-chekrouni-040092248)
 [![Email](https://img.shields.io/badge/Email-chekrouni.derar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chekrouni.derar@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mothrxa.github.io-4CAF50?style=flat&logo=github)](https://mothrxa.github.io)
