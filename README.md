@@ -1,8 +1,6 @@
 # Derar Chekrouni
 
-**Network & Systems Engineer** · CCNA · ISC2 CC · RHCSA in progress
-
-Final-year Master's student in Networks & Embedded Systems at the University of Algiers 1. I build infrastructure that keeps working when parts of it don't: redundant networks, self-healing databases and automated provisioning.
+**Networks & Systems Engineer** · CCNA · ISC2 CC · RHCSA in progress
 
 ---
 
